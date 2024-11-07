@@ -8,7 +8,6 @@ Sou o Allan, sou um programador front end, atualmente estou aprendendo e criando
 
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo css"/>
 
-- <img src=" https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
 
 
 <br>
